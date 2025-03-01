@@ -29,7 +29,7 @@ function App() {
         </ul>
         <div className="images">
           <a href="app.jsx" target="_blank"><img src="public\new-tab-icon-12.jpg" alt="new tab" /></a>
-          <a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fhl%3Den-GB&emr=1&hl=en-GB&ifkv=ASSHykodXclJEurRxP6Byql_GJWqvCpp7OtVQhzFNwdFBrmuFo6bP4DySLRaQCxZBwrzgM4JGDgI&ltmpl=default&ltmplcache=2&osid=1&passive=true&rm=false&scc=1&service=mail&ss=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1645292326%3A1740863744027601&ddm=1"><img src="public\d05bb076839e9150a0c140458e6eb9e1.png" alt="Account" /></a>
+          <a href="https://about.google/products/"><img src="public\R (1).png" alt="Account" /></a>
         </div>
       </nav>
 
